@@ -1,60 +1,62 @@
-# LINK GITHUB
+# 🔄 Ecommerce CRUD de admin/productos
 
-# https://github.com/manecist/Ecommerce-CRUD-M5
+## 📌 Descripción
 
+Aplicación enfocada en la implementación de operaciones CRUD (Crear, Leer, Actualizar y Eliminar) dentro de un sistema ecommerce.
 
+---
 
+## 🛠 Tecnologías
 
+Java • Spring Boot • MySQL • JSP / Thymeleaf
 
-#### INSTRUCCIONES DE EJECUCION
+---
 
+## ⚙️ Funcionalidades
 
+✔ Crear productos
+✔ Listar productos
+✔ Editar información
+✔ Eliminar registros
 
-1. ###### SE DEBE ABRIR EL PROYECTO "CrudEcommerceM5" EN INTELLIJ
+---
 
-###### 2\. UTILIZAR LA HERRAMIENTA DE MAVEN DEL INTELLIJ
+## 📷 Vista del sistema
 
-###### 3\. ACTIVAR EL CLEAN Y LUEGO EL PACKAGE
-
-###### 4\. COPIAR EL ARCHIVO .WAR EN LA CARPETA WEBAPP DEL TOMCAT
-
-###### 5\. UTILIZAR EL STARTUP PARA DESPLEGAR EL ARCHIVO
-
-###### 6\. ABRIR PROGRAMA EN http://localhost:8080/CrudEcommerceM5-1.0.0/ O http://localhost:8080/CrudEcommerceM5-1.0.0/home
-
-###### 7\. REVISAR FUNCIONALIDAD DE PAGINA COMO ADMIN, ADEMAS TIENE PERFIL INVITADO Y EL USUARIO
-
-###### 8\. PARA INGRESAR COMO ADMIN Y HACER USO DE LA GESTION SE DEBE LOGIAR EN EL ICONO DE SAILORMOON DE INICIO SESION
-
-###### 9\. UTILIZAR PERFIL ADMIN QUE ES USUARIO: admin   PASSWORD: Admin.2026!
-
-###### 10\. UNA VEZ DENTRO CREAR YA SEA NUEVO USUARIO, CATEGORIA, SUBCATEGORIA O PRODUCTO.
-
-###### 11\. LA CREACION DE USUARIO ES SOLO COMPLETANDO EL FORMULARIO COMO LO SOLICITAN LAS VALIDACIONES
-
-###### 12\. PARA CREAR PRODUCTO SE DEBE EMPEZAR POR LA CATEGORIA, PUEDE AGREGAR IMAGEN NUEVA QUE ES TEMPORAL O BIEN PUEDE USAR UNA DE GALERIA
-
-###### 13\. UNA VEZ LISTA LA CATEGORIA; PUEDE CREAR LA SUBCATEGORIA CON EL MENU DESPLEGABLE
-
-###### 14\. AHORA SI, CON CATEGORIA Y SUBCATEGORIA SE PUEDE CREAR EL PRODUCTO AGREGANDO UNA IMAGEN SUBIDA O DE GALERIA Y COMPLETANDO LOS DATOS
-
-###### 15\. SE PUEDE EDITAR TANTO USUARIO, COMO CATEGORIA, SUBCATEGORIA Y PRODUCTOS
-
-###### 16\. SOLO DEJE DE MUESTRA EL ICONO DE CARRITO YA QUE EN ESTE TRABAJO NO TIENE USO AUN NI CREACION.
+<img width="1919" height="1079" alt="Captura de pantalla 2026-03-03 011442" src="https://github.com/user-attachments/assets/99aab6c2-43a1-49a0-9acb-ca8c107bb29e" />
+<img width="1870" height="941" alt="image" src="https://github.com/user-attachments/assets/051b5e55-cec8-4aa1-ab12-509b2a5359d0" />
+<img width="1433" height="896" alt="image" src="https://github.com/user-attachments/assets/8d17f9fa-3e80-4a27-8877-445cbd9a56df" />
+<img width="1756" height="935" alt="image" src="https://github.com/user-attachments/assets/624a0784-d7bc-476f-a5a4-d7209c42594c" />
+<img width="1860" height="902" alt="image" src="https://github.com/user-attachments/assets/3b84f0fc-11ff-4e0b-aea2-5621d34011a6" />
+<img width="1861" height="797" alt="image" src="https://github.com/user-attachments/assets/f50423ef-de38-4f2d-a8cc-578f3da1cf07" />
+<img width="915" height="716" alt="image" src="https://github.com/user-attachments/assets/ea626ff1-97aa-4d41-9cb7-0b9e66242dbc" />
+<img width="1531" height="799" alt="image" src="https://github.com/user-attachments/assets/d437a469-7474-4097-bb2f-11bdec526a49" />
+<img width="1904" height="1017" alt="image" src="https://github.com/user-attachments/assets/28e97e05-081d-4f42-b06b-4b627a0a9ddd" />
+<img width="1132" height="780" alt="image" src="https://github.com/user-attachments/assets/29d1a5bb-76b9-4c9e-9a1e-12a54b1eed9d" />
+<img width="916" height="730" alt="image" src="https://github.com/user-attachments/assets/a89ef47a-d074-41b8-b24a-f02383a272dc" />
 
 
 
-####  
+---
 
-### RUTAS DE PRUEBA Y ACCESOS
+## ▶️ Cómo ejecutar
 
-### 
-
+1. Clonar repositorio
+2. Configurar base de datos
+3. Abrir en IntelliJ
+4. Hacer package
+5. pegar el .war en webapss de tomcat
+6. Ejecutar aplicación usando tomcat startup desde carpeta bin
+7. RUTAS DE PRUEBA Y ACCESOS
 ### URL -> http://localhost:8080/CrudEcommerceM5-1.0.0/ O http://localhost:8080/CrudEcommerceM5-1.0.0/home
-
-### 
-
 ### USUARIO: admin
-
 ### PASSWORD: Admin.2026!
+
+---
+
+## 🚀 Mejoras futuras
+
+* Interfaz más moderna
+* Validaciones avanzadas
+* Autenticación de usuarios
 
