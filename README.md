@@ -8,7 +8,7 @@ Aplicación enfocada en la implementación de operaciones CRUD (Crear, Leer, Act
 
 ## 🛠 Tecnologías
 
-Java • Spring Boot • MySQL • JSP / Thymeleaf
+Java • Spring Boot • MySQL • JSP 
 
 ---
 
