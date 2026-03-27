@@ -1,5 +1,12 @@
 # 🔄 Ecommerce CRUD de admin/productos
 
+Implementación de operaciones CRUD para sistema ecommerce como parte de mi formación en desarrollo Full Stack.
+
+🔗 Parte de proyecto completo:
+Frontend | Backend | Base de Datos | CRUD
+
+---
+
 ## 📌 Descripción
 
 Aplicación enfocada en la implementación de operaciones CRUD (Crear, Leer, Actualizar y Eliminar) dentro de un sistema ecommerce.
